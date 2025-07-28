@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @evertonsjdr
 - 👀 I’m interested in works
-- 🌱 I’m currently learning Python, accounting and physical education.
-- 💞️ I’m looking to collaborate on Python and TI.
-- 📫 How to reach me ... @notreve.seravat (instagram), Everton Tavares (Facebook).
+- 🌱 I’m currently learning Python and C.
+- 💞️ I’m a professional in Cybersecurity analyst.
+- 📫 How to reach me ... @evertonsjdr (instagram), Everton Tavares (Facebook).
 
 <!---
 evertonsjdr/evertonsjdr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
